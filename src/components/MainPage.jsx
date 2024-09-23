@@ -80,7 +80,7 @@ const MainPage = () => {
                     <img className='w-full h-full object-contain' src="model.png" alt="" />
                     <img ref={print1} className='print1 absolute w-[30%] md:w-[22%] left-[0%] md:left-[3.5rem] top-[12%] md:top-[9rem]' src="print1.png" alt="" />
                     <img ref={print2} className='print2 absolute w-[30%] md:w-[23%] left-[3%] md:left-[2.5rem] top-[70%] md:top-[25rem]' src="print2.png" alt="" />
-                    <img ref={print3} className='print3 absolute w-[30%] md:w-[22%] left-[72%] md:left-[25.5rem] top-[56%] md:top-[22rem]' src="print3.png" alt="" />
+                    <img ref={print3} className='print3 absolute w-[30%] md:w-[22%] left-[72%] md:left-[26.5rem] top-[56%] md:top-[22rem]' src="print3.png" alt="" />
                     <img ref={print4} className='print4 absolute w-[30%] md:w-[22%] left-[70%] md:left-[26.5rem] top-[6%] md:top-[5rem]' src="print6.png" alt="" />
                 </div>
             </div>
