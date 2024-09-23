@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family:'Gellix';
+}
+
+.navbar {
+    box-shadow: 0 3px 4px #0000000a;
+    background: linear-gradient(to right, #bbf5cc, #f7f5f5);
+}
+
+/* Add this to your CSS file */
+
