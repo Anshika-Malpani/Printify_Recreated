@@ -46,7 +46,7 @@ const ProductRangePage = () => {
                 <img ref={imageRef} className='w-full h-[80%] md:w-[90%] md:h-full object-contain' src={images[currentImageIndex]} alt="" />
             </div>
             </div>
-            <div className='animated-div absolute w-[85%] md:w-[50vw] h-[40vh] md:h-[55vh] bg-[#F7F7F7] left-[7%] md:left-[39%] bottom-[23%] md:bottom-[20%] rounded-b-3xl md:rounded-r-xl py-[1rem] md:py-[2rem] pl-[2rem] md:pl-[9rem] pr-[2rem] md:pr-[7.5rem] flex justify-center flex-col gap-4'>
+            <div className='animated-div absolute w-[85%] md:w-[50vw] h-[40vh] md:h-[55vh] bg-[#F7F7F7] left-[7%] md:left-[39%] bottom-[20%] md:bottom-[20%] rounded-b-3xl md:rounded-r-xl py-[1rem] md:py-[2rem] pl-[2rem] md:pl-[9rem] pr-[2rem] md:pr-[7.5rem] flex justify-center flex-col gap-4'>
                 <h1 className='text-3xl md:text-3xl font-black'>Easily add your design to a wide range of products</h1>
                 <h4 className='text-gray-500 text-sm md:text-base'>With our free design tools, you can easily add your custom designs to t-shirts, mugs, phone cases, and hundreds of other products.</h4>
                 <h4 className='text-[#39B75D] font-black flex items-center text-xl gap-1'>All products<IoMdArrowForward className='text-xl md:text-2xl mt-[0.2rem]'/></h4>

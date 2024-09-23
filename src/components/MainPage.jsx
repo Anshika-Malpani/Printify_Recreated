@@ -60,8 +60,8 @@ const MainPage = () => {
     });
     return (
         <div className='w-full '>
-            <div className='w-full h-[89vh] flex flex-col md:flex-row items-center md:justify-evenly px-10'>
-                <div className='w-full h-[40%] md:w-[50%] md:h-full flex flex-col md:pl-[7vw] justify-center gap-8'>
+            <div className='w-full h-[95vh] flex flex-col md:flex-row items-center md:justify-evenly px-10'>
+                <div className='w-full h-[40%] md:w-[50%] md:h-full flex flex-col md:pl-[7vw] mt-6 justify-center gap-8'>
                     <div><h1 className='text-4xl md:text-6xl font-black'>Create and sell custom products</h1></div>
                     <div className='flex flex-col items-start justify-start'>
                         <Advantages icon={<IoMdCheckmark className='text-[#39B75D]  text-[3vw] md:text-[1.6vw]' />} advatange='100% Free to use' />
